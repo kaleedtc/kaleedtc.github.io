@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>شروحات on KaleedTC</title>
+        <link>http://localhost:1313/ar/categories/guides/%D8%B4%D8%B1%D9%88%D8%AD%D8%A7%D8%AA/</link>
+        <description>Recent content in شروحات on KaleedTC</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ar</language>
+        <copyright>KaleedTC</copyright><atom:link href="http://localhost:1313/ar/categories/guides/%D8%B4%D8%B1%D9%88%D8%AD%D8%A7%D8%AA/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on kaleedtc</title>
+        <link>http://localhost:1313/ar/categories/</link>
+        <description>Recent content in Categories on kaleedtc</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ar</language>
+        <copyright>KaleedTC</copyright>
+        <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ar/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>شروحات</title>
+        <link>http://localhost:1313/ar/categories/guides/</link>
+        <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/categories/guides/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/guides/guides.webp" alt="Featured image of post شروحات" /&gt;</description>
+        </item>
+        <item>
+        <title>أمن معلومات وخصوصية رقمية</title>
+        <link>http://localhost:1313/ar/categories/privacy/</link>
+        <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/categories/privacy/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/privacy/privacy.webp" alt="Featured image of post أمن معلومات وخصوصية رقمية" /&gt;</description>
+        </item>
+        <item>
+        <title>مقتطفات سريعة</title>
+        <link>http://localhost:1313/ar/categories/quick-snippets/</link>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/categories/quick-snippets/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/quick-snippets/quick-snippets.webp" alt="Featured image of post مقتطفات سريعة" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

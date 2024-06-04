@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Quick snippets on kaleedtc</title>
+        <link>http://localhost:1313/categories/quick-snippets/</link>
+        <description>Recent content in Quick snippets on kaleedtc</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>KaleedTC</copyright>
+        <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/quick-snippets/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Update Apps Directly From the Source</title>
+        <link>http://localhost:1313/obtainium/</link>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/obtainium/</guid>
+        <description>&lt;img src="http://localhost:1313/obtainium/thumbnail.webp" alt="Featured image of post Update Apps Directly From the Source" /&gt;&lt;p&gt;Get Android App Updates Directly From the Source.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This article is available on&lt;/strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2827&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt; Aosus Community&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Connecting to wifi network through command line</title>
+        <link>http://localhost:1313/wifi-command-line/</link>
+        <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/wifi-command-line/</guid>
+        <description>&lt;img src="http://localhost:1313/wifi-command-line/thumbnail.webp" alt="Featured image of post Connecting to wifi network through command line" /&gt;&lt;p&gt;Connecting to wifi network through command line.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This article is available on&lt;/strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2379&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt; Aosus Community&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

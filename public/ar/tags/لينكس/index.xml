@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>لينكس on kaleedtc</title>
+        <link>http://localhost:1313/ar/tags/%D9%84%D9%8A%D9%86%D9%83%D8%B3/</link>
+        <description>Recent content in لينكس on kaleedtc</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ar</language>
+        <copyright>KaleedTC</copyright>
+        <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ar/tags/%D9%84%D9%8A%D9%86%D9%83%D8%B3/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>بهذه الطريقة شفر الملفات والمجلدات على لينكس</title>
+        <link>http://localhost:1313/ar/encrypt-decrypt-files-in-linux/</link>
+        <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/encrypt-decrypt-files-in-linux/</guid>
+        <description>&lt;img src="http://localhost:1313/encrypt-decrypt-files-in-linux/thumbnail.webp" alt="Featured image of post بهذه الطريقة شفر الملفات والمجلدات على لينكس" /&gt;&lt;p&gt;يوضح هذا الدليل طريقة تشفير الملفات والمجلدات وفك تشفيرها على لينكس.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;هذا المقال متوفر على&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2611&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;مجتمع أسس&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on kaleedtc</title>
+        <link>http://localhost:1313/ar/page/</link>
+        <description>Recent content in Pages on kaleedtc</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ar</language>
+        <copyright>KaleedTC</copyright>
+        <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ar/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>الأرشيف</title>
+        <link>http://localhost:1313/ar/archives/</link>
+        <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>بحث</title>
+        <link>http://localhost:1313/ar/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>عني</title>
+        <link>http://localhost:1313/ar/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/about/</guid>
+        <description>&lt;p&gt;انا خالد, مهتم بالمصادر الحرة والمفتوحة من برمجيات وتطبيقات.&lt;/p&gt;
+&lt;p&gt;أقضي وقتي بالتجربة والتعلم حول أنظمة لينكس والبرمجيات المفتوحة.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>مشاريعي</title>
+        <link>http://localhost:1313/ar/projects/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/projects/</guid>
+        <description>&lt;p&gt;هذه الصفحة قيد الإنجاز.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

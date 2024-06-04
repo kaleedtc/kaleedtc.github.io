@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>آلة افتراضية on KaleedTC</title>
+        <link>http://localhost:1313/tags/%D8%A2%D9%84%D8%A9-%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9/</link>
+        <description>Recent content in آلة افتراضية on KaleedTC</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>KaleedTC</copyright>
+        <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%D8%A2%D9%84%D8%A9-%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>إليك طريقة حفظ واسترجاع ملفات qcow2 باستخدام KVM</title>
+        <link>http://localhost:1313/export-import-kvm-virtual-machines-linux/</link>
+        <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/export-import-kvm-virtual-machines-linux/</guid>
+        <description>&lt;img src="http://localhost:1313/export-import-kvm-virtual-machines-linux/thumbnail.webp" alt="Featured image of post إليك طريقة حفظ واسترجاع ملفات qcow2 باستخدام KVM" /&gt;&lt;p&gt;This topic is available on[ Aosus Community](&lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2379&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;طريقة الإتصال بشبكة WiFi باستخدام سطر الأوامر في لينكس - البرامج والتطبيقات - مجتمع أسس&lt;/a&gt;)&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

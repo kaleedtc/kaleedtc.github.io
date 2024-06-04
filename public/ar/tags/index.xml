@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on kaleedtc</title>
+        <link>http://localhost:1313/ar/tags/</link>
+        <description>Recent content in Tags on kaleedtc</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ar</language>
+        <copyright>KaleedTC</copyright>
+        <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ar/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>أندرويد</title>
+        <link>http://localhost:1313/ar/tags/%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF/</link>
+        <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/tags/%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Linux</title>
+        <link>http://localhost:1313/ar/tags/linux/</link>
+        <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/tags/linux/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>لينكس</title>
+        <link>http://localhost:1313/ar/tags/%D9%84%D9%8A%D9%86%D9%83%D8%B3/</link>
+        <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/tags/%D9%84%D9%8A%D9%86%D9%83%D8%B3/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Ventoy</title>
+        <link>http://localhost:1313/ar/tags/ventoy/</link>
+        <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/tags/ventoy/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Virtual Machines</title>
+        <link>http://localhost:1313/ar/tags/virtual-machines/</link>
+        <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/tags/virtual-machines/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>آلة افتراضية</title>
+        <link>http://localhost:1313/ar/tags/%D8%A2%D9%84%D8%A9-%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9/</link>
+        <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/tags/%D8%A2%D9%84%D8%A9-%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>سطر الأوامر</title>
+        <link>http://localhost:1313/ar/tags/%D8%B3%D8%B7%D8%B1-%D8%A7%D9%84%D8%A3%D9%88%D8%A7%D9%85%D8%B1/</link>
+        <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/tags/%D8%B3%D8%B7%D8%B1-%D8%A7%D9%84%D8%A3%D9%88%D8%A7%D9%85%D8%B1/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

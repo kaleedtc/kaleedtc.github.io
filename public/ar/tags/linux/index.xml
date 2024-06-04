@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Linux on kaleedtc</title>
+        <link>http://localhost:1313/ar/tags/linux/</link>
+        <description>Recent content in Linux on kaleedtc</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ar</language>
+        <copyright>KaleedTC</copyright>
+        <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ar/tags/linux/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>أفضل حل لتشغيل تطبيقات أندرويد على لينكس</title>
+        <link>http://localhost:1313/ar/waydroid/</link>
+        <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/waydroid/</guid>
+        <description>&lt;img src="http://localhost:1313/waydroid/thumbnail.webp" alt="Featured image of post أفضل حل لتشغيل تطبيقات أندرويد على لينكس" /&gt;&lt;p&gt;يوضح هذا الدليل طريقة تشغيل تطبيقات أندرويد على أنظمة لينكس.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;هذا المقال متوفر على&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2687&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;مجتمع أسس&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>بهذه الطريقة شفر الملفات والمجلدات على لينكس</title>
+        <link>http://localhost:1313/ar/encrypt-decrypt-files-in-linux/</link>
+        <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/encrypt-decrypt-files-in-linux/</guid>
+        <description>&lt;img src="http://localhost:1313/encrypt-decrypt-files-in-linux/thumbnail.webp" alt="Featured image of post بهذه الطريقة شفر الملفات والمجلدات على لينكس" /&gt;&lt;p&gt;يوضح هذا الدليل طريقة تشفير الملفات والمجلدات وفك تشفيرها على لينكس.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;هذا المقال متوفر على&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2611&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;مجتمع أسس&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>هذه هي طريقة تغيير الثيمات على برنامج Ventoy</title>
+        <link>http://localhost:1313/ar/customize-ventoy-theme/</link>
+        <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/customize-ventoy-theme/</guid>
+        <description>&lt;img src="http://localhost:1313/customize-ventoy-theme/thumbnail.webp" alt="Featured image of post هذه هي طريقة تغيير الثيمات على برنامج Ventoy" /&gt;&lt;p&gt;يوضح لك هذا الشرح كيف تقوم بتخصيص الثيمات على برنامج Ventoy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;هذا المقال متوفر على&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2490&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;مجتمع أسس&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>إليك طريقة حفظ واسترجاع ملفات qcow2 باستخدام KVM</title>
+        <link>http://localhost:1313/ar/export-import-kvm-virtual-machines-linux/</link>
+        <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/export-import-kvm-virtual-machines-linux/</guid>
+        <description>&lt;img src="http://localhost:1313/export-import-kvm-virtual-machines-linux/thumbnail.webp" alt="Featured image of post إليك طريقة حفظ واسترجاع ملفات qcow2 باستخدام KVM" /&gt;&lt;p&gt;يوضح هذا الدليل طريقة حفظ واسترجاع ملفات qcow2 باستخدام KVM من خلال سطر الأوامر في لينكس.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;هذا المقال متوفر على&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2412&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;مجتمع أسس&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>هكذا تقوم بالإتصال بشبكة WiFi باستخدام سطر الأوامر في لينكس</title>
+        <link>http://localhost:1313/ar/wifi-command-line/</link>
+        <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/wifi-command-line/</guid>
+        <description>&lt;img src="http://localhost:1313/wifi-command-line/thumbnail.webp" alt="Featured image of post هكذا تقوم بالإتصال بشبكة WiFi باستخدام سطر الأوامر في لينكس" /&gt;&lt;p&gt;يوضح هذا الدليل المختصر طريقة الإتصال بشبكة WiFi باستخدام سطر الأوامر في لينكس.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;هذا المقال متوفر على&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2379&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;مجتمع أسس&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>آلة افتراضية on kaleedtc</title>
+        <link>http://localhost:1313/ar/tags/%D8%A2%D9%84%D8%A9-%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9/</link>
+        <description>Recent content in آلة افتراضية on kaleedtc</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ar</language>
+        <copyright>KaleedTC</copyright>
+        <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ar/tags/%D8%A2%D9%84%D8%A9-%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>إليك طريقة حفظ واسترجاع ملفات qcow2 باستخدام KVM</title>
+        <link>http://localhost:1313/ar/export-import-kvm-virtual-machines-linux/</link>
+        <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ar/export-import-kvm-virtual-machines-linux/</guid>
+        <description>&lt;img src="http://localhost:1313/export-import-kvm-virtual-machines-linux/thumbnail.webp" alt="Featured image of post إليك طريقة حفظ واسترجاع ملفات qcow2 باستخدام KVM" /&gt;&lt;p&gt;يوضح هذا الدليل طريقة حفظ واسترجاع ملفات qcow2 باستخدام KVM من خلال سطر الأوامر في لينكس.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;هذا المقال متوفر على&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2412&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;مجتمع أسس&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

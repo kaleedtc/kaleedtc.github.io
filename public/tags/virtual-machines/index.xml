@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Virtual Machines on kaleedtc</title>
+        <link>http://localhost:1313/tags/virtual-machines/</link>
+        <description>Recent content in Virtual Machines on kaleedtc</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>KaleedTC</copyright>
+        <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/virtual-machines/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Export And Import KVM Virtual Machines In Linux</title>
+        <link>http://localhost:1313/export-import-kvm-virtual-machines-linux/</link>
+        <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/export-import-kvm-virtual-machines-linux/</guid>
+        <description>&lt;img src="http://localhost:1313/export-import-kvm-virtual-machines-linux/thumbnail.webp" alt="Featured image of post Export And Import KVM Virtual Machines In Linux" /&gt;&lt;p&gt;Export And Import KVM Virtual Machines In Linux.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This article is available on&lt;/strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2412&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt; Aosus Community&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

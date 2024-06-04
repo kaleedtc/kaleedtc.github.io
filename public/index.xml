@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Home on kaleedtc</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content in Home on kaleedtc</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>KaleedTC</copyright>
+        <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>feature-rich F-Droid client for everyone!</title>
+        <link>http://localhost:1313/neo-store/</link>
+        <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/neo-store/</guid>
+        <description>&lt;img src="http://localhost:1313/neo-store/thumbnail.webp" alt="Featured image of post feature-rich F-Droid client for everyone!" /&gt;&lt;p&gt;An F-Droid client with modern UI and an arsenal of extra features.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This article is available on&lt;/strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/3208&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt; Aosus Community&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Block Ads and Trackers on Android</title>
+        <link>http://localhost:1313/rethinkdns/</link>
+        <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/rethinkdns/</guid>
+        <description>&lt;img src="http://localhost:1313/rethinkdns/thumbnail.webp" alt="Featured image of post Block Ads and Trackers on Android" /&gt;&lt;p&gt;Block malware, spyware, ads, and trackers across all apps with Rethink DNS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This article is available on&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;&#34; &gt;Librar.net&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Update Apps Directly From the Source</title>
+        <link>http://localhost:1313/obtainium/</link>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/obtainium/</guid>
+        <description>&lt;img src="http://localhost:1313/obtainium/thumbnail.webp" alt="Featured image of post Update Apps Directly From the Source" /&gt;&lt;p&gt;Get Android App Updates Directly From the Source.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This article is available on&lt;/strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2827&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt; Aosus Community&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Run Android Apps On Linux</title>
+        <link>http://localhost:1313/waydroid/</link>
+        <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/waydroid/</guid>
+        <description>&lt;img src="http://localhost:1313/waydroid/thumbnail.webp" alt="Featured image of post Run Android Apps On Linux" /&gt;&lt;p&gt;A Practical Guide to Run Android Apps On Linux.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This article is available on&lt;/strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2687&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt; Aosus Community&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Encrypt and Decrypt Files and Directories Using GnuPG</title>
+        <link>http://localhost:1313/encrypt-decrypt-files-in-linux/</link>
+        <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/encrypt-decrypt-files-in-linux/</guid>
+        <description>&lt;img src="http://localhost:1313/encrypt-decrypt-files-in-linux/thumbnail.webp" alt="Featured image of post Encrypt and Decrypt Files and Directories Using GnuPG" /&gt;&lt;p&gt;encrypt and decrypt certain files and directories in Linux.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This article is available on&lt;/strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2611&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt; Aosus Community&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Customize Your Own Theme - Ventoy</title>
+        <link>http://localhost:1313/customize-ventoy-theme/</link>
+        <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/customize-ventoy-theme/</guid>
+        <description>&lt;img src="http://localhost:1313/customize-ventoy-theme/thumbnail.webp" alt="Featured image of post Customize Your Own Theme - Ventoy" /&gt;&lt;p&gt;If you&amp;rsquo;re looking for a way to personalize your bootable USB drive.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This article is available on&lt;/strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2490&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt; Aosus Community&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Export And Import KVM Virtual Machines In Linux</title>
+        <link>http://localhost:1313/export-import-kvm-virtual-machines-linux/</link>
+        <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/export-import-kvm-virtual-machines-linux/</guid>
+        <description>&lt;img src="http://localhost:1313/export-import-kvm-virtual-machines-linux/thumbnail.webp" alt="Featured image of post Export And Import KVM Virtual Machines In Linux" /&gt;&lt;p&gt;Export And Import KVM Virtual Machines In Linux.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This article is available on&lt;/strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2412&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt; Aosus Community&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Connecting to wifi network through command line</title>
+        <link>http://localhost:1313/wifi-command-line/</link>
+        <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/wifi-command-line/</guid>
+        <description>&lt;img src="http://localhost:1313/wifi-command-line/thumbnail.webp" alt="Featured image of post Connecting to wifi network through command line" /&gt;&lt;p&gt;Connecting to wifi network through command line.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This article is available on&lt;/strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://discourse.aosus.org/t/topic/2379&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt; Aosus Community&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>http://localhost:1313/archives/</link>
+        <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;p&gt;Hi, I am Khalid, passionate about Free and Open source software.&lt;/p&gt;
+&lt;p&gt;I spend my time experimenting with FOSS and I like to learn by doing.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>My Projects</title>
+        <link>http://localhost:1313/projects/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/projects/</guid>
+        <description>&lt;p&gt;This page is under construction.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
