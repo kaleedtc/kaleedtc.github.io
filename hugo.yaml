@@ -75,7 +75,7 @@ languages:
                  
              - identifier: email
                name: Email
-               url: khalid.pnadm@passinbox.com
+               url: mailto:khalid.pnadm@passinbox.com
                weight: 3
                params:
                  icon: email  
@@ -160,7 +160,7 @@ languages:
                 
             - identifier: email
               name: Email
-              url: khalid.pnadm@passinbox.com
+              url: mailto:khalid.pnadm@passinbox.com
               weight: 3
               params:
                 icon: email  
