@@ -82,7 +82,7 @@ languages:
 
              - identifier: RSS
                name: RSS
-               url: https://kaleedtc.com/index.xml
+               url: https://kaleedtc.github.io./index.xml
                weight: 4
                params:
                  icon: rss
@@ -167,7 +167,7 @@ languages:
 
             - identifier: RSS
               name: RSS
-              url: https://kaleedtc.com/index.xml
+              url: https://kaleedtc.github.io./index.xml
               weight: 3
               params:
                 icon: rss
