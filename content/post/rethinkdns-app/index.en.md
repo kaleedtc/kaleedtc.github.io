@@ -19,4 +19,4 @@ keywords : [
 
 Block malware, spyware, ads, and trackers across all apps with Rethink DNS.
 
-**This article is available on** [Librar.net]()
+**This article is available on** [**Librar.net**](https://librar.net/rethinkdns-app/)

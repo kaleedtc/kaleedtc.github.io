@@ -18,4 +18,6 @@ keywords : [
 
 An F-Droid client with modern UI and an arsenal of extra features.
 
-**This article is available on**[ Aosus Community](https://discourse.aosus.org/t/topic/3208)
+**This article is available on**[ **Aosus Community**](https://discourse.aosus.org/t/topic/3208)
+
+This is also a previous review from [**librar.net**](https://librar.net/neo-store/)
